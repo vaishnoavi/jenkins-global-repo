@@ -1,3 +1,3 @@
-def call(String name = 'you') { # you is the default value
+def call(String name = 'you') {
 	echo "Hello, ${name}"
 }
